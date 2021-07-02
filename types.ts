@@ -40,6 +40,6 @@ export const snakeTypes = {
         reserved: 'Option<Weight>'
     },
     ConsumedWeight: 'PerDispatchClass',
-    Slot: 'u64'
+    Slot: 'u64',
+    Score: 'u32',
 }
-
